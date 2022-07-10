@@ -4,9 +4,21 @@ By: [Connor Baumler](https://ctbaumler.github.io/) `<baumler@umd.edu` and [Rache
 
 To help understand coreference systems' understanding of singular vs plural they/them pronouns, we adapted existing winograd schemas to create this dataset of **WinoNB** schemas. What follows below is the [datasheet](https://arxiv.org/abs/1803.09010) describing this data. If you use this dataset, please acknowledge it by citing the original paper:
 
-<!-- ```
-bibtex should go here
-``` -->
+```
+@inproceedings{baumler-rudinger-2022-recognition,
+    title = "Recognition of They/Them as Singular Personal Pronouns in Coreference Resolution",
+    author = "Baumler, Connor  and
+      Rudinger, Rachel",
+    booktitle = "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    month = jul,
+    year = "2022",
+    address = "Seattle, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.naacl-main.250",
+    pages = "3426--3432"
+}
+
+```
 
 
 ## Motivation
